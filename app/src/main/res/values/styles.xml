@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="NoBorderButton" parent="Widget.AppCompat.Button">
-        <item name="android:background">@null</item> <!-- Elimina el fondo -->
-        <item name="android:padding">8dp</item> <!-- Agrega un relleno si es necesario -->
-    </style>
-</resources>
